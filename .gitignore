@@ -4,4 +4,6 @@ my_app/migrations/__pychache__/
 shop/__pychache__/
 item/migrations/__pychache__/
 .idea/
+staticfiles/
+
 
